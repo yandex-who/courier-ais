@@ -38,3 +38,5 @@ docker compose up --build
 
 ## Работа с репозиторием
 См. [CONTRIBUTING.md](CONTRIBUTING.md). Архитектурные правила — [docs/architecture.md](docs/architecture.md).
+## Исправления версии 0.1.1
+- (fix) уточнён порт healthcheck сервиса core в docker-compose.yml
